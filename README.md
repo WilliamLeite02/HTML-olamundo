@@ -1,3 +1,3 @@
 # HTML-olamundo
 
-Página HTML com contador
+Página HTML com contador.
