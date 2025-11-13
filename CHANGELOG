@@ -1,5 +1,11 @@
 # Changelog
 
+## v1.0.1 - 2025-11-13
+
+- Merge pull request #2 from WilliamLeite02/feat/contador-html
+- Add initial HTML and JavaScript for a counter
+
+
 ## v1.0.0 - 2025-11-13
 
 - Merge pull request #1 from WilliamLeite02/feat/actions-implement
@@ -9,4 +15,3 @@
 - name
 - primeirapag
 - Initial commit
-
